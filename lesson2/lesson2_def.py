@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
     print(get_avarage(input('Input string of digit separatet by ,')))
 # 2
-    array_of_input = [12, 601, 43, 67, 101, 34]
+    array_of_input = [12, 601, 43, 67, 101, 34, 1]
 
 
     def get_summ_digit(digit):

@@ -23,7 +23,7 @@ if __name__ == "__main__":
     list2.sort()
     print(list2)
 # или
-    list3 = [2, 4, 1, 22, 6]
+    list3 = [2, 4, 1, 22, 6, 10]
     list3.sort()
     print(list3)
 # 5
