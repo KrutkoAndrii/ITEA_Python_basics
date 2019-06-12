@@ -2,7 +2,6 @@ import math
 
 
 if __name__ == "__main__":
-
 # 1
     for i in range(11):
         print(i**2)

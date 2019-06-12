@@ -1,11 +1,9 @@
 # Проверить является ли введенное число простым.
 # Число считается простым если оно не делится
 # нацело на все числа до квадратного корня этого числа
-
 import math
 
 if __name__ == "__main__":
-
     user_digit = input("Input a numeric: ")
     while not user_digit.isdigit():
         user_digit = input("Wrong data. Try again: ")

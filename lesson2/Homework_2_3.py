@@ -1,7 +1,5 @@
 # Возвести число в степень с помощью цикла
-
 if __name__ == "__main__":
-
     user_data_main = input("Enter a numeric for exponented digit ")
     while not user_data_main.isdigit():
         user_data_main = input("Wrong data. Try again: ")
