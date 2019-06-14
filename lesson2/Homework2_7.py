@@ -1,10 +1,8 @@
 # Напишите программу “угадай число”.  Компьютер генерирует рандомное число (функция random),
 # пользователь вводит числа, пока не угадает, а компьютер отвечает больше или меньше
-
 import random
 
 if __name__ == "__main__":
-
     user_digit = input("Input a numeric: ")
     while not user_digit.isdigit():
         user_digit = input("Wrong data. Try again: ")
