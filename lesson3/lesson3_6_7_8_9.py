@@ -16,9 +16,9 @@ class frame_window(Frame):
         self.main_menu = Menu(self.master)
         self.file_menu = Menu(self.main_menu, tearoff=0)
         self.dict_menu = Menu(self.main_menu, tearoff=0)
-        self.ini_gui()
+        self.init_gui()
 
-    def ini_gui(self):
+    def init_gui(self):
         self.entry_name.pack(pady=10)
         self.entry_name.place(x=50, y=1)
         self.entry_phone.pack(pady=10)
@@ -78,6 +78,7 @@ class frame_window(Frame):
 
     def find_by_phone(self):
         self.text_go.delete('1.0', END)
+        # just faster
         dict_find = {v: k for k, v in self.dict_phone.items()}
         try:
             str_output = "Phone " + str(self.entry_phone.get()) +\

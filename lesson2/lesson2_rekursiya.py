@@ -1,7 +1,7 @@
 def get_sum_digit_of_numeric(num):
     if len(num) == 1:
         return num[0]
-    return int(num[len(num)-1]) + int(get_sum_digit_of_numeric(num[0:len(num)-1]))
+    return int(num[len(num)-1]) + int(get_sum_digit_of_numeric(num[:len(num)-1]))
 
 
 def check_digit(num):

@@ -8,6 +8,6 @@ def check_input_digit(string):
 
 if __name__ == "__main__":
     high = check_input_digit("Input high: ")
-    lengt = check_input_digit("Input lengh: ")
+    length = check_input_digit("Input lengh: ")
     for start_position in range(high):
-        print("*" * lengt)
+        print("*" * length)
