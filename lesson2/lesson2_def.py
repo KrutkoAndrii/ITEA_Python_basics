@@ -4,7 +4,7 @@ import random
 def get_avarage(list_in):
     digit_list = list_in.split(",")
     su = 0
-    for dig in digit_list:
+    for digit in digit_list:
         print(dig)
         su = su + int(dig)
     return su / len(digit_list)
