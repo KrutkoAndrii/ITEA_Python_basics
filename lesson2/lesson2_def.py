@@ -3,11 +3,11 @@ import random
 
 def get_avarage(list_in):
     digit_list = list_in.split(",")
-    su = 0
-    for dig in digit_list:
-        print(dig)
-        su = su + int(dig)
-    return su / len(digit_list)
+    sum_digit = 0
+    for digit in digit_list:
+        print(digit)
+        sum_digit = sum_digit + int(digit)
+    return sum_digit / len(digit_list)
 
 
 def get_sum_digit(digit):
