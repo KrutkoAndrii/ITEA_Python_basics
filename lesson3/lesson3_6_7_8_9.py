@@ -78,30 +78,27 @@ class frame_window(Frame):
 
     def find_by_phone(self):
         self.text_go.delete('1.0', END)
-        # just faster
-        dict_find = {v: k for k, v in self.dict_phone.items()}
-        try:
-            str_output = "Phone " + str(self.entry_phone.get()) +\
-                         " Name " + str(dict_find[self.entry_phone.get()]) + '\n'
-        except Exception:
-            self.text_go.insert(1.0, 'Nothing')
+        line_end = 'Nothing'
+        for chose_key, chose_value in self.dict_phone.items():
+            if chose_value == self.entry_phone.get():
+                self.text_go.insert(1.0, "Phone " + str(chose_value) + " Name " + str(chose_key) + '\n')
+                line_end = ''
         else:
-            self.text_go.insert(1.0, str_output)
+            self.text_go.insert(1.0, line_end)
 
     def find_repetition(self):
         self.text_go.delete('1.0', END)
-        dict_find = {v: k for k, v in self.dict_phone.items()}
         total = 0
         rep = 0
-        for item in dict_find:
+        for chose_key, chose_value in self.dict_phone.items():
             x = ''
-            for i in item:
+            for i in chose_value:
                 if x == i:
                     rep += 1
                 if rep == 2:
                     total += 1
                     rep = 0
-                    self.text_go.insert(1.0, 'Phone ' + str(item) + " Name " + dict_find[item] + '\n')
+                    self.text_go.insert(1.0, 'Phone ' + str(chose_value) + " Name " + str(chose_key) + '\n')
                     break
                 x = i
         self.text_go.insert(1.0, 'Total: ' + str(total) + '\n')
