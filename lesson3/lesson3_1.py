@@ -7,7 +7,7 @@ def check_input_digit(string):
 
 
 if __name__ == "__main__":
-    high = check_input_digit("Input high: ")
+    height = check_input_digit("Input high: ")
     length = check_input_digit("Input lengh: ")
-    for start_position in range(high):
+    for start_position in range(height):
         print("*" * length)
