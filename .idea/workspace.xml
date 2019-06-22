@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c04340e-631c-473d-b34b-29bff59d7741" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/lesson3_6_7_8_9.py" afterDir="false" />
+    <list default="true" id="29128ce3-6d2c-4713-9e11-e77f92f93a79" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/Homework_2_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/Homework_2_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/Homework_2_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/Homework_2_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/Homework_2_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/Homework_2_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2/Lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/Lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/Homework_2_7.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson2/lesson2_def.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/lesson2_def.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson2/lesson2_rekursiya.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/lesson2_rekursiya.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/lesson3_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/lesson3_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/lesson3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/lesson3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/lesson3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/lesson3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/lesson3_6_7_8_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/lesson3_6_7_8_9.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,14 +25,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson3/lesson3_6_7_8_9.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson3/lesson3_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1275">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson4/lesson4_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson4/lesson4_8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson4/lesson4_9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson4/lesson4_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson4/lesson4_1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson2/lesson2_def.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson4/lesson4_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson3/lesson3_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/pyton3/Lib/tkinter/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36363">
+              <caret line="2142" selection-start-line="2142" selection-end-line="2142" />
             </state>
           </provider>
         </entry>
@@ -45,30 +120,21 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>entry2</find>
-      <find>text1</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>entry_phone</replace>
-      <replace>text_go</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson1/Lesson1.py" />
-        <option value="$PROJECT_DIR$/lesson2/lesson2_def.py" />
+        <option value="$PROJECT_DIR$/lesson3/test.py" />
         <option value="$PROJECT_DIR$/lesson3/lesson3_1.py" />
-        <option value="$PROJECT_DIR$/lesson3/lesson3_5.py" />
-        <option value="$PROJECT_DIR$/lesson3/lesson3_4.py" />
-        <option value="$PROJECT_DIR$/lesson3/lesson3_3.py" />
-        <option value="$PROJECT_DIR$/lesson3/lesson3_2.py" />
         <option value="$PROJECT_DIR$/lesson3/lesson3_6_7_8_9.py" />
+        <option value="$PROJECT_DIR$/lesson4/lesson4_4.py" />
+        <option value="$PROJECT_DIR$/lesson4/lesson4_8.py" />
+        <option value="$PROJECT_DIR$/lesson2/lesson2_def.py" />
+        <option value="$PROJECT_DIR$/lesson4/lesson4_9.py" />
+        <option value="$PROJECT_DIR$/lesson4/lesson4_2.py" />
+        <option value="$PROJECT_DIR$/lesson4/lesson4_1.py" />
       </list>
     </option>
   </component>
@@ -83,18 +149,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ITEA_Python_basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="ITEA_Python_basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ITEA_Python_basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ITEA_Python_basics" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ITEA_Python_basics" type="b2602c69:ProjectViewProjectNode" />
@@ -106,17 +166,21 @@
               <item name="ITEA_Python_basics" type="462c0819:PsiDirectoryNode" />
               <item name="lesson3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ITEA_Python_basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ITEA_Python_basics" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,8 +194,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lesson3_6_7_8_9">
-    <configuration name="lesson3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.lesson4_9">
+    <configuration name="lesson4_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ITEA_Python_basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,12 +203,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/lesson3_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson3_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lesson4_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ITEA_Python_basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,12 +225,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/lesson3_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson3_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lesson4_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ITEA_Python_basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,12 +247,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/lesson3_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson3_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lesson4_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ITEA_Python_basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,12 +269,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/lesson3_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson3_6_7_8_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lesson4_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ITEA_Python_basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,12 +291,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson3/lesson3_6_7_8_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson3_6_7_8_9" />
-        <item itemvalue="Python.lesson3_2" />
-        <item itemvalue="Python.lesson3_4" />
-        <item itemvalue="Python.lesson3_5" />
-        <item itemvalue="Python.lesson3_3" />
+        <item itemvalue="Python.lesson4_9" />
+        <item itemvalue="Python.lesson4_8" />
+        <item itemvalue="Python.lesson4_4" />
+        <item itemvalue="Python.lesson4_3" />
+        <item itemvalue="Python.lesson4_2" />
       </list>
     </recent_temporary>
   </component>
@@ -256,30 +320,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7c04340e-631c-473d-b34b-29bff59d7741" name="Default Changelist" comment="" />
-      <created>1560203905282</created>
+      <changelist id="29128ce3-6d2c-4713-9e11-e77f92f93a79" name="Default Changelist" comment="" />
+      <created>1560456431407</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560203905282</updated>
-      <workItem from="1560203914689" duration="15871000" />
-      <workItem from="1560359339249" duration="7538000" />
+      <updated>1560456431407</updated>
+      <workItem from="1560456458080" duration="3971000" />
+      <workItem from="1560886745397" duration="3107000" />
+      <workItem from="1560959983166" duration="19218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23409000" />
+    <option name="totallyTimeSpent" value="26296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -300,82 +365,90 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson3_3.coverage" NAME="lesson3_3 Coverage Results" MODIFIED="1560280253974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
-    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson3_1.coverage" NAME="lesson3_1 Coverage Results" MODIFIED="1560271285091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
-    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson3_4.coverage" NAME="lesson3_4 Coverage Results" MODIFIED="1560317662194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
-    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson3_5.coverage" NAME="lesson3_5 Coverage Results" MODIFIED="1560281998957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
-    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson3_6_7_8_9.coverage" NAME="lesson3_6_7_8_9 Coverage Results" MODIFIED="1560367188564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
-    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson3_2.coverage" NAME="lesson3_2 Coverage Results" MODIFIED="1560359444356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
+    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson4_4.coverage" NAME="lesson4_4 Coverage Results" MODIFIED="1561056145297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
+    <SUITE FILE_PATH="coverage/ITEA_Python_basics$test.coverage" NAME="test Coverage Results" MODIFIED="1560459108548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
+    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson4_1.coverage" NAME="lesson4_1 Coverage Results" MODIFIED="1561053438236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
+    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson4_8.coverage" NAME="lesson4_8 Coverage Results" MODIFIED="1561056206224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
+    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson3_6_7_8_9.coverage" NAME="lesson3_6_7_8_9 Coverage Results" MODIFIED="1560889340725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson3" />
+    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson4_2.coverage" NAME="lesson4_2 Coverage Results" MODIFIED="1561056062229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
+    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson4_3.coverage" NAME="lesson4_3 Coverage Results" MODIFIED="1561056117762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
+    <SUITE FILE_PATH="coverage/ITEA_Python_basics$lesson4_9.coverage" NAME="lesson4_9 Coverage Results" MODIFIED="1561056211176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson1/Lesson1.py">
+    <entry file="file://$PROJECT_DIR$/lesson3/test.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/lesson3_6_7_8_9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="629">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/lesson2_rekursiya.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/lesson3_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/pyton3/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36363">
+          <caret line="2142" selection-start-line="2142" selection-end-line="2142" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson2/lesson2_def.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        <state relative-caret-position="697">
+          <caret line="53" column="25" lean-forward="true" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson3/lesson3_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/lesson3_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/lesson3_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/lesson3_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/lesson3_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/Lesson2.py">
+    <entry file="file://$PROJECT_DIR$/lesson4/lesson4_1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/lesson2_module.py">
+    <entry file="file://$PROJECT_DIR$/lesson4/lesson4_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="850">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/lesson3_6_7_8_9.py">
+    <entry file="file://$PROJECT_DIR$/lesson4/lesson4_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="442">
+          <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/lesson4_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/lesson4_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/lesson4_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

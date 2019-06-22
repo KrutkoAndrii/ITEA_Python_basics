@@ -15,14 +15,12 @@ def generate_matrix(length_input, high_input):
     return matrix
 
 
-def get_sum_matrix(in_matrix, length_input, high_input):
-    sum_matrix = 0
-    for i_high in range(high_input):
-        sum_line = 0
-        for i_length in range(length_input):
-            sum_line += in_matrix[i_high][i_length]
-        sum_matrix += sum_line
-    return sum_matrix
+def get_sum_matrix(in_matrix):
+    matrix_sum = 0
+    for row in in_matrix:
+        for num in row:
+            matrix_sum += num
+    return matrix_sum
 
 
 def get_sum_matrix_alternative(in_matrix):
@@ -33,5 +31,5 @@ if __name__ == "__main__":
     length = check_input_digit("Input length of matrix: ")
     high = check_input_digit("Input high of matrix: ")
     incoming_matrix = generate_matrix(length, high)
-    print("Sum of matrix is: "+str(get_sum_matrix(incoming_matrix, length, high)))
-    print("Alternative way sum of matrix is: "+str(get_sum_matrix_alternative(incoming_matrix)))
+    print("Sum of matrix is: " + str(get_sum_matrix(incoming_matrix)))
+    print("Alternative way sum of matrix is: " + str(get_sum_matrix_alternative(incoming_matrix)))
