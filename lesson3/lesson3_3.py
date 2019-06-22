@@ -9,8 +9,8 @@ def check_input_digit(string):
     return int(user_digit)
 
 
-def generate_matrix(matrix_rows_number, matrix_columns_number):
-    matrix = [[random.randint(0, 100) for i in range(matrix_rows_number)] for z in range(matrix_columns_number)]
+def generate_matrix(matrix_rows_number, matrix_colums_number):
+    matrix = [[random.randint(0, 100) for i in range(matrix_rows_number)] for z in range(matrix_colums_number)]
     print(matrix)
     return matrix
 
