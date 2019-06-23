@@ -20,7 +20,7 @@ John
 Посчитать количество номеров телефонов в предыдущем примере,
 в которых есть 3 или более одинаковых цифр подряд
 Добавить возможность удаления человека из справочника
-Добавить возможность редактирования номера\имени
+Добавить возможность редактирования номера - имени
 '''
 
 from tkinter import *
@@ -53,12 +53,18 @@ class frame_window(Frame):
         self.text_go.pack()
         self.text_go.place(x=1, y=30)
         self.master.config(menu=self.main_menu)
-        self.dict_menu.add_command(label="Show all dict", command=self.show_dict)
-        self.dict_menu.add_command(label="Add to dict", command=self.add_to_dict)
-        self.dict_menu.add_command(label="Find by name", command=self.find_by_name)
-        self.dict_menu.add_command(label="Find by phone", command=self.find_by_phone)
-        self.dict_menu.add_command(label="Find repetition", command=self.find_repetition)
-        self.dict_menu.add_command(label="Delete item by name", command=self.delete_name)
+        self.dict_menu.add_command(label="Show all dict",
+                                   command=self.show_dict)
+        self.dict_menu.add_command(label="Add to dict",
+                                   command=self.add_to_dict)
+        self.dict_menu.add_command(label="Find by name",
+                                   command=self.find_by_name)
+        self.dict_menu.add_command(label="Find by phone",
+                                   command=self.find_by_phone)
+        self.dict_menu.add_command(label="Find repetition",
+                                   command=self.find_repetition)
+        self.dict_menu.add_command(label="Delete item by name",
+                                   command=self.delete_name)
         self.file_menu.add_command(label="Exit", command=self.exit_app)
         self.main_menu.add_cascade(label="File", menu=self.file_menu)
         self.main_menu.add_cascade(label="Dictionary", menu=self.dict_menu)

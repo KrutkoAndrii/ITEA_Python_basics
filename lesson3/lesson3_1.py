@@ -1,5 +1,6 @@
 # Вывести прямоугольник со сторонами a,b
 
+
 def check_input_digit(string):
     user_digit = input(string)
     while not user_digit.isdigit():
