@@ -1,18 +1,8 @@
 # Найти сумму элементов матрицы
-import random
 
 
-def check_input_digit(string):
-    user_digit = input(string)
-    while not user_digit.isdigit():
-        user_digit = input("Wrong data. Try again: ")
-    return int(user_digit)
-
-
-def generate_matrix(length_input, high_input):
-    matrix = [[random.randint(0, 100) for i in range(length_input)] for z in range(high_input)]
-    print(matrix)
-    return matrix
+from my_package.check_input import check_input_digit
+from my_package.work_with_matrix import generate_matrix
 
 
 def get_sum_diagonal(in_matrix, in_side):
@@ -26,4 +16,5 @@ if __name__ == "__main__":
     # Для упрощения возьмем квадратную матрицу
     side = check_input_digit("Input side of matrix: ")
     incoming_matrix = generate_matrix(side, side)
-    print("Sum diagonal of matrix is: "+str(get_sum_diagonal(incoming_matrix, side)))
+    print("Sum diagonal of matrix is: "+str(get_sum_diagonal(incoming_matrix,
+                                                             side)))
