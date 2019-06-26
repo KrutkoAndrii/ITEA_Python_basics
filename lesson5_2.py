@@ -22,5 +22,5 @@ if __name__ == "__main__":
     height = check_input_digit("Input height of matrix: ")
     incoming_matrix = generate_matrix(length, height)
     print("Sum of matrix is: " + str(get_sum_matrix(incoming_matrix)))
-    print("Alternative way sum of matrix is: " + str(get_sum_matrix_alternative(
-        incoming_matrix)))
+    print("Alternative way sum of matrix is: " +
+          str(get_sum_matrix_alternative(incoming_matrix)))
