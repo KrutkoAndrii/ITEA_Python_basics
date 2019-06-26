@@ -6,11 +6,12 @@
    порядке, разделяя их пробелами или новыми строками.1/5
 '''
 
+
 def get_sum_digit_of_numeric(num):
     if len(num) == 1:
         return num[0]
-    return int(num[len(num)-1]) \
-           + int(get_sum_digit_of_numeric(num[:len(num)-1]))
+    return int(num[len(num)-1]) + int(
+        get_sum_digit_of_numeric(num[:len(num)-1]))
 
 
 def check_digit(num):
@@ -30,13 +31,13 @@ def rollback(dig, num):
 
 
 if __name__ == "__main__":
-# 1
+    # 1
     input_user = input('input a numeric: ')
     while not input_user.isdigit():
         input_user = input("Wrong data. Try again: ")
     print(get_sum_digit_of_numeric(input_user))
-# 2
+    # 2
     print(check_digit(int(input("input a numeric"))))
-# 3
+    # 3
     string = input('Input a numeric')
     rollback(string, len(string) - 1)

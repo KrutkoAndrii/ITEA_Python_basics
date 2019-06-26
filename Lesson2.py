@@ -20,10 +20,10 @@ import math
 
 
 if __name__ == "__main__":
-# 1
+    # 1
     for i in range(11):
         print(i ** 2)
-# 2
+    # 2
     i = 0
     while True:
         i += 1
@@ -31,19 +31,19 @@ if __name__ == "__main__":
             break
         else:
             print(i**2)
-# 3
+    # 3
     my_string = input('input a numeric ')
     n = math.sqrt(int(my_string))
     while n > 10:
         print(n)
         n = math.sqrt(n)
-# 4
+    # 4
     print('Task 4')
     st = input('input a string ')
     for i in st:
         if i.isupper():
             print(i, end='')
-# 5
+    # 5
     print('Task 5')
     st = input('input line of numeric separated by ,')
     st_digit = st.split(',')
@@ -52,7 +52,7 @@ if __name__ == "__main__":
         if st_dig.isdigit():
             sum_all += int(st_dig)
     print(sum_all)
-# 6
+    # 6
     print('Task 6')
     flag = 0
     i = 0
@@ -62,7 +62,7 @@ if __name__ == "__main__":
             fl = 0
         i += 1
         flag += 1
-# 7
+    # 7
     print('Task 7')
     dg_count = 0
     dg_sum = 0
@@ -77,7 +77,7 @@ if __name__ == "__main__":
     if dg_count != 0:
         print('count:'+str(dg_count) + ' sum: '+str(dg_sum) + ' avr '+str(
                dg_sum / dg_count))
-# 9
+    # 9
     print('Task 9')
     count = input("Input a numeric ")
     fibonachi_f = 0
