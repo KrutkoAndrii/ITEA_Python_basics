@@ -11,20 +11,20 @@
 '''
 
 if __name__ == "__main__":
-# 1
+    # 1
     print("Задание №1")
     print(3 ** 128 * 2 ** 128)
-# 2
+    # 2
     print("Задание №21")
     print('Python'*100)
-# 3
+    # 3
     print("Задание №3")
-    str = 'molokovoz'
-    print(str.count('o'))
-# 4
+    my_str = 'molokovoz'
+    print(my_str.count('o'))
+    # 4
     print("Задание №4")
-    str = '2,5,1,34,7'
-    my_lists = str.split(",")
+    my_str = '2,5,1,34,7'
+    my_lists = my_str.split(",")
     my_lists2 = []
     i = 0
     m = (len(my_lists))
@@ -33,11 +33,11 @@ if __name__ == "__main__":
         i += 1
     my_lists2.sort()
     print(my_lists2)
-# or
+    # or
     my_lists3 = [2, 4, 1, 22, 6, 10]
     my_lists3.sort()
     print(my_lists3)
-# 5
+    # 5
     print("Задание №5")
     print('input a numeric №1')
     my_str51 = input()
@@ -54,12 +54,12 @@ if __name__ == "__main__":
         print("Error incoming data ")
         n52 = 0
     print(n51 + n52)
-# 6
+    # 6
     print("Задание №6")
     print("input T(kelvin)")
     Kelvin = input()
     print(int(Kelvin)-273)
-# 7
+    # 7
     print("Задание №7")
     print("Input a string with ','")
     str7 = input()
