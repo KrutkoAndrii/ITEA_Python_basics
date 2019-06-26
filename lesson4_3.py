@@ -50,8 +50,8 @@ def find(string, substring, start=0, end=-1):
     string_index = 0
     string_len = len(str(substring))
     while string_index < len(string[start:end]):
-        if string[string_index+start:string_index
-                                    + start + string_len] == substring:
+        if string[string_index +
+                  start:string_index + start + string_len] == substring:
             return string_index+start
         string_index += 1
     return -1
