@@ -8,7 +8,7 @@
 import pickle
 
 
-def sum_of_array(function_import,arrays_of_digits):
+def sum_of_array(function_import, arrays_of_digits):
     print(eval(function_import))
 
 
