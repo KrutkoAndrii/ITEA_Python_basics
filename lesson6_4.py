@@ -9,10 +9,12 @@ import pickle
 
 
 def sum_of_array(function_import, arrays_of_digits):
+    ''' execute code from file '''
     print(eval(function_import))
 
 
 def make_result():
+    ''' count array from file '''
     array_of_averages = []
     with open('test3_result.txt', 'r') as file_data:
         for sting_from_file in file_data:

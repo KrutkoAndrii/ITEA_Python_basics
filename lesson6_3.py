@@ -9,6 +9,7 @@ from random import randint
 
 
 def generate_random_string():
+    ''' for generate string which  random integer '''
     string = ''.join(str(randint(0, 10))+' ' for i in range(5))
     return string[:-1]
 

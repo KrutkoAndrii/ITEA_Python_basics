@@ -9,6 +9,7 @@ import re
 
 
 def get_sorted_dictionary(point_to_file):
+    ''' it sorted input divtionary '''
     finding_words = {}
     for line in point_to_file:
         line_clean = re.compile('[^a-zA-Z ]')
