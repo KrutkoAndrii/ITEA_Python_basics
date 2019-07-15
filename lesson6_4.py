@@ -4,13 +4,7 @@
     кожен елемент складає з себе середнє арифметичне кожного рядку файла
     test3_result.txt. Тобто 100 елементний список.
 '''
-
-import pickle
-
-
-def sum_of_array(function_import, arrays_of_digits):
-    ''' execute code from file '''
-    print(eval(function_import))
+from test2 import count_degree
 
 
 def make_result():
@@ -27,8 +21,5 @@ def make_result():
 
 
 if __name__ == "__main__":
-    with open('test2.txt', 'rb') as file_def:
-        function_from_file = pickle.load(file_def)
-    file_def.close()
     array_of_digits = make_result()
-    sum_of_array(function_from_file, array_of_digits)
+    print(count_degree(array_of_digits))
